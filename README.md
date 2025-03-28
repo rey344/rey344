@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Hi there! I'm Rey Sanchez, a CS Senior from El Paso, TX. 
+  I am passonate about AI, and full-stack development. 
+  I'm excited to use my skills to build impactful tech and help shape a smarter, more connected future</p>
 
 ###
 

@@ -2,7 +2,6 @@
 
 Computer Science graduate + Math minor (UTEP) — El Paso, TX
 
----
 
 ## Current project
 **[HomePilot](https://github.com/rey344/HomePilot/)** — AI-assisted homebuying & financial planning platform focused on true cost (PITI + HOA + PMI + maintenance) and aligned with the 50/30/20 budgeting framework.
